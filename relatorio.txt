@@ -1,0 +1,18 @@
+Resistencia: 100.0000 R 
+Indutanciancia: 0.0100 H 
+Capacitancia: 0.0001 F 
+Instante inicial: 1 s 
+Instante final: 12 s 
+Tamanho do passo: 1 s 
+##################### Tabela de Valores ################### 
+Instante: 1 s, E: 0.0000 V, VC: 2.0000 V, VL: -302.0000 V, I: 3.0000 A 
+Instante: 2 s, E: 1.0000 V, VC: 291.2526 V, VL: -2.1176 V, I: -2.8813 A 
+Instante: 3 s, E: 1.0000 V, VC: 3.8823 V, VL: -291.1373 V, I: 2.8825 A 
+Instante: 4 s, E: 1.0000 V, VC: 281.7917 V, VL: -3.9954 V, I: -2.7680 A 
+Instante: 5 s, E: 1.0000 V, VC: 5.6909 V, VL: -281.6810 V, I: 2.7699 A 
+Instante: 6 s, E: 1.0000 V, VC: 272.7019 V, VL: -5.7995 V, I: -2.6590 A 
+Instante: 7 s, E: 1.0000 V, VC: 7.4285 V, VL: -272.5955 V, I: 2.6617 A 
+Instante: 8 s, E: 1.0000 V, VC: 263.9685 V, VL: -7.5328 V, I: -2.5544 A 
+Instante: 9 s, E: 1.0000 V, VC: 9.0979 V, VL: -263.8663 V, I: 2.5577 A 
+Instante: 10 s, E: 1.0000 V, VC: 255.5776 V, VL: -9.1982 V, I: -2.4538 A 
+Instante: 11 s, E: 1.0000 V, VC: 10.7019 V, VL: -255.4794 V, I: 2.4578 A 
