@@ -1,4 +1,5 @@
                       ####(SIMULACAO DE CIRCUITO)####
+                      
 function [t,E,vl,vc,i] = simulacao_circuito(r,l,c,t0,tn,v0,i0,h,N)
 %        [retorno]     = nome da fc*       (entradas)
 % *o nome da fc tem que se o mesmo do arquivo
@@ -78,8 +79,8 @@ function [t,E,vl,vc,i] = simulacao_circuito(r,l,c,t0,tn,v0,i0,h,N)
 
   A=[r 1 1;(-h/(2*c)) 1 0;1 0 (-h/(2*l))];
   
-  disp('Matriz Rede');
-  disp(A);
+  %disp('Matriz Rede');
+  %disp(A);
 
   for j=2:N
     

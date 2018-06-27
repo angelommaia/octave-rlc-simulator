@@ -1,6 +1,5 @@
                       ####(PLOTAGEM DE GRAFICOS)####
 
-
 function plot_graphs(t,E,vl,vc,i)
   
   plot(t,E,'b');
