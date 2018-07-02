@@ -14,6 +14,6 @@ function gerar_relatorio(r,l,c,t0,tn,h,t,E,vc,vl,i,N)
   for j=1:N
   fprintf(fid,"Instante: %d s, E: %.4f V, VC: %.4f V, VL: %.4f V, I: %.4f A \r\n",t(j),E(j),vc(j),vl(j),i(j));
   endfor
-  fclose(fid);
+  
 
 endfunction

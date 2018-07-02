@@ -16,7 +16,7 @@ function [t,E,vl,vc,i] = simulacao_circuito(r,l,c,t0,tn,v0,i0,h,N)
   end
 
   disp('A excitacao da fonte de tensao sera: ');
-  disp('  1 - Degral')
+  disp('  1 - Degrau')
   disp('  2 - Senoidal')
   disp('  3 - Pulso')
   escolha=input('');
@@ -25,7 +25,7 @@ function [t,E,vl,vc,i] = simulacao_circuito(r,l,c,t0,tn,v0,i0,h,N)
 
     case 1
    
-      disp('Degral');
+      disp('Degrau');
       k=input('Informe o valor da amplitude K ');
       a=input('Informe o valor do atraso a ');
 
